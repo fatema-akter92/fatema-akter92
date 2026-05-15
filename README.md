@@ -1,4 +1,6 @@
-<img width="1024" height="170" alt="image" src="https://github.com/user-attachments/assets/e70a42ca-51af-4d77-953a-d5655a946315" />
+<img width="2242" height="416" alt="Gemini_Generated_Image_kbgssckbgssckbgs" src="https://github.com/user-attachments/assets/f58006d2-35a6-4689-9e19-783ec7f3d838" />
+
+----
 
 
 # Hi, I'm Fatema Akter
@@ -67,3 +69,4 @@ Version Control & Collaboration (Git/GitHub best practices)
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatema--akter92-181717?style=for-the-badge&logo=github)](https://github.com/fatema-akter92)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatema%20Akter%20Meem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatema-akter-meem-502342334/)
