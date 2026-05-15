@@ -9,6 +9,8 @@ Computer Science & Engineering Student
 Learning Development | AI/ML Enthusiast
 Focused on building scalable and real-world software systems
 
+------------
+
 # About Me
 
 I am a Computer Science & Engineering student with a strong interest in software development, backend systems, and artificial intelligence.
@@ -17,6 +19,8 @@ I am a Computer Science & Engineering student with a strong interest in software
  Currently exploring Flask, REST APIs, and AI/ML fundamentals
  Enjoy building practical projects that solve real problems
  Constantly improving my development and logical thinking skills
+
+ -----------
  
 # Projects
 
@@ -29,7 +33,10 @@ Flask + AI-powered application for facial feature detection and analysis
  Attendance Management System
 Automated attendance tracking system using shell scripting
 
+
+
 # 🛠 Technology Stack
+
 
 ## 💻 Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,11 +47,14 @@ Automated attendance tracking system using shell scripting
 
 ---
 
+
 ## 🗄 Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
 
 ## ⚙️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,12 +63,13 @@ Automated attendance tracking system using shell scripting
 
 ---
 
+
 ## 🤖 AI / ML
 ![DeepFace](https://img.shields.io/badge/DeepFace-AI-blue?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-
+------------
 
 #  Currently Learning
 Advanced Backend Development (Flask, Dadjango ,RESTful APIs)
