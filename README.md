@@ -24,14 +24,9 @@ I am a Computer Science & Engineering student with a strong interest in software
  
 # Projects
 
-Online Food Delivery System
-C-based system implementing core food ordering logic and management features
-
-Face Analysis System
-Flask + AI-powered application for facial feature detection and analysis
-
- Attendance Management System
-Automated attendance tracking system using shell scripting
+• Face Analysis System — Flask + AI-based facial feature detection application using image processing techniques 
+• Online Food Delivery System — C-based food ordering system with core management features and efficient data handling   
+• Attendance Management System — Shell script-based automated attendance tracking system for lightweight record management  
 
 
 
