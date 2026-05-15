@@ -24,8 +24,7 @@ I am a Computer Science & Engineering student with a strong interest in software
  
 # Projects
 
-• Face Analysis System — Flask + AI-based facial feature detection application using image processing techniques      
-
+• Face Analysis System — Flask + AI-based facial feature detection application using image processing techniques         
 • Online Food Delivery System — C-based food ordering system with core management features and efficient data handling   
 • Attendance Management System — Shell script-based automated attendance tracking system for lightweight record management  
 
