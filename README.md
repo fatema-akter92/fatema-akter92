@@ -16,7 +16,7 @@ Focused on building scalable and real-world software systems
 I am a Computer Science & Engineering student with a strong interest in software development, backend systems, and artificial intelligence.
 
  Passionate about problem-solving and system design
- Currently exploring Flask, REST APIs, and AI/ML fundamentals
+ Currently exploring Flask, Django, REST APIs, and AI/ML fundamentals
  Enjoy building practical projects that solve real problems
  Constantly improving my development and logical thinking skills
 
