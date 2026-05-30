@@ -24,8 +24,7 @@ I am a Computer Science & Engineering student with a strong interest in software
  
 # Projects
 
-• Bibliotheca_Your_Online_Library — Bibliotheca brings your entire library online — catalog books, manage members, track loans, get AI recommendations, and gain    powerful insights with real-time analytics.
-
+• Bibliotheca_Your_Online_Library — Bibliotheca brings your entire library online — catalog books, manage members, track loans, get AI recommendations, and gain    powerful insights with real-time analytics. 
 • Face Analysis System — Flask + AI-based facial feature detection application using image processing techniques         
 • Online Food Delivery System — C-based food ordering system with core management features and efficient data handling   
 • Attendance Management System — Shell script-based automated attendance tracking system for lightweight record management
