@@ -73,7 +73,7 @@ I am a Computer Science & Engineering student with a strong interest in software
 ------------
 
 #  Currently Learning
-Advanced Backend Development (Flask, Dadjango ,RESTful APIs)
+Advanced Backend Development (Flask, Django,RESTful APIs)
 Machine Learning fundamentals
 Software Architecture & System Design
 Version Control & Collaboration (Git/GitHub best practices)
