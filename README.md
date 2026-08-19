@@ -6,14 +6,14 @@
 # Hi, I'm Fatema Akter
 
 Computer Science & Engineering Student
-Learning Development | AI/ML Enthusiast
+Exploring Development | Computer networking Enthusiast
 Focused on building scalable and real-world software systems
 
 ------------
 
 # About Me
 
-I am a Computer Science & Engineering student with a strong interest in software development, backend systems, and artificial intelligence.
+I am a Computer Science & Engineering student with a strong interest in  computer network ,software development, backend systems, and artificial intelligence.
 
  Passionate about problem-solving and system design
  Currently exploring Flask, Django, REST APIs, and AI/ML fundamentals
@@ -73,8 +73,8 @@ I am a Computer Science & Engineering student with a strong interest in software
 ------------
 
 #  Currently Learning
+Computer Networking 
 Advanced Backend Development (Flask, Django,RESTful APIs)
-Machine Learning fundamentals
 Software Architecture & System Design
 Version Control & Collaboration (Git/GitHub best practices)
 
