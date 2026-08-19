@@ -1,9 +1,20 @@
-<img width="2242" height="416" alt="Gemini_Generated_Image_kbgssckbgssckbgs" src="https://github.com/user-attachments/assets/f58006d2-35a6-4689-9e19-783ec7f3d838" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f58006d2-35a6-4689-9e19-783ec7f3d838" 
+       alt="Fatema Akter Meem - Computer Networking Engineer"
+       width="100%">
+</p>
+
+# Hi, I'm Fatema Akter 👋
+
+### Aspiring Network Engineer | Network Architecture | Cloud & Infrastructure
+
 
 ----
 
 
 # Hi, I'm Fatema Akter
+
+### Aspiring Network Engineer | Network Architecture | Cloud & Infrastructure
 
 Computer Science & Engineering Student
 Exploring Development | Computer networking Enthusiast
@@ -15,12 +26,25 @@ Focused on building scalable and real-world software systems
 
 I am a Computer Science & Engineering student with a strong interest in  computer network ,software development, backend systems, and artificial intelligence.
 
+ 🌐 Computer Networking
+- 🏗️ Network Architecture
+- ☁️ Cloud & Infrastructure
+- 💻 Backend Development
+- 🤖 Artificial Intelligence
+- 🔐 Network Security
+  
  Passionate about problem-solving and system design
  Currently exploring Flask, Django, REST APIs, and AI/ML fundamentals
  Enjoy building practical projects that solve real problems
  Constantly improving my development and logical thinking skills
 
  -----------
+
+ # 🛠️ Networking Tools
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
  
 # Projects
 
