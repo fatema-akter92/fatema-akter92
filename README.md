@@ -49,6 +49,7 @@ I am a Computer Science & Engineering student with a strong interest in  compute
 • Attendance Management System — Shell script-based automated attendance tracking system for lightweight record management
 
 
+------------
 
 
 # 🛠 Technology Stack
@@ -96,6 +97,8 @@ Computer Networking
 Advanced Backend Development (Flask, Django,RESTful APIs)
 Software Architecture & System Design
 Version Control & Collaboration (Git/GitHub best practices)
+
+----------
 
 ## 📫 Connect With Me
 
