@@ -3,32 +3,6 @@
 
 ----
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 🌐 NETWORKING
-Computer Networks<br>
-Routing & Switching<br>
-Network Security
-
-</td>
-
-<td align="center">
-
-### 💻 BACKEND
-Python<br>
-Django • Flask<br>
-REST APIs
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 # Hi, I'm Fatema Akter
 
