@@ -6,7 +6,7 @@
 
 # Hi, I'm Fatema Akter
 
-### Aspiring Network Engineering and devlopment | Network Architecture | Cloud & Infrastructure
+### Aspiring Network Engineering and Development | Network Architecture | Cloud & Infrastructure
 
 Computer Science & Engineering Student
 Exploring Full Stack Development | Computer networking Enthusiast
