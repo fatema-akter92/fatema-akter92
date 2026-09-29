@@ -6,19 +6,20 @@
 
 # Hi, I'm Fatema Akter
 
-### Aspiring Network Engineer | Network Architecture | Cloud & Infrastructure
+### Aspiring Network Engineering and devlopment | Network Architecture | Cloud & Infrastructure
 
 Computer Science & Engineering Student
-Exploring Development | Computer networking Enthusiast
+Exploring Full Stack Development | Computer networking Enthusiast
 Focused on building scalable and real-world software systems
 
 ------------
 
 # About Me
 
-I am a Computer Science & Engineering student with a strong interest in  computer network ,software development, backend systems, and artificial intelligence.
+I am a Computer Science & Engineering student with a strong interest in  computer network ,Full Stack Development Django ,software development, backend systems, and artificial intelligence.
 
  🌐 Computer Networking
+- Full Stack Development Django
 - 🏗️ Network Architecture
 - ☁️ Cloud & Infrastructure
 - 💻 Backend Development
