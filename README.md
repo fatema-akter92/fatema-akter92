@@ -3,10 +3,36 @@
 
 ----
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐 NETWORKING
+Computer Networks<br>
+Routing & Switching<br>
+Network Security
+
+</td>
+
+<td align="center">
+
+### 💻 BACKEND
+Python<br>
+Django • Flask<br>
+REST APIs
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 # Hi, I'm Fatema Akter
 
-### Aspiring Network Engineering and Development | Network Architecture | Cloud & Infrastructure
+### Aspiring Network Engineer & Backend Developer | Network Architecture | Cloud & Infrastructure
 
 Computer Science & Engineering Student
 Exploring Full Stack Development | Computer networking Enthusiast
@@ -16,7 +42,7 @@ Focused on building scalable and real-world software systems
 
 # About Me
 
-I am a Computer Science & Engineering student with a strong interest in  computer network ,Full Stack Development Django ,software development, backend systems, and artificial intelligence.
+I am a Computer Science & Engineering student with a strong interest in  computer network ,Full Stack Development|Django ,software development, backend systems, and artificial intelligence.
 
  🌐 Computer Networking
 - Full Stack Development Django
@@ -44,7 +70,7 @@ I am a Computer Science & Engineering student with a strong interest in  compute
  
 # Projects
 
-• Blood-Donatation-Request-System — A full-featured Django web application where users can register as blood donors, create blood requests, and search suitable donors based on blood group, location, and availability.
+• Blood-Donatation-Request-System — A web platform for donor registration, blood requests, and donor discovery based on blood group, location, and availability..
 
 • Single_Vendor-E-commerce-Website  — The Single Vendor E-Commerce Website ("TechMart") project has been fully developed, seeded with sample database products, tested, and launched.
 
