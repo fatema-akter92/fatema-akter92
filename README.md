@@ -12,7 +12,7 @@
 
 -------------
 
- <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1BA0D7&center=true&vCenter=true&width=650&lines=Aspiring+Network+Engineer;Backend+%26+Full+Stack+Developer+(Django);Cloud+%26+Infrastructure+Enthusiast;Building+scalable+real-world+systems" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatema-akter92&label=Profile+Views&color=1BA0D7&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/badge/CSE-Student-blue?style=for-the-badge" alt="CSE Student" /> <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="Open to internships" /> </p>
+ <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1BA0D7&center=true&vCenter=true&width=650&lines=Aspiring+Network+Engineering;Backend+%26+Full+Stack+Developer+(Django);Cloud+%26+Infrastructure+Enthusiast;Building+scalable+real-world+systems" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatema-akter92&label=Profile+Views&color=1BA0D7&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/badge/CSE-Student-blue?style=for-the-badge" alt="CSE Student" /> <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="Open to internships" /> </p>
 
 ----------------
 
