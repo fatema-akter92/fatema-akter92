@@ -1,5 +1,5 @@
 
-<p align="center"> <img width="1400" height="340" alt="image" src="https://github.com/user-attachments/assets/900b5975-ef98-43e8-9e92-15bdf4d6b72c" /> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
+<p align="center"> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
 
 ----
 
