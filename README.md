@@ -1,25 +1,6 @@
-<p align="center">
- 
-  <img width="1400" height="340" alt="image" src="https://github.com/user-attachments/assets/65d6e49c-6390-4625-8f77-10ada0ba2c04" />
-  
-  
-  
-  <img width="2800" height="680" alt="image" src="https://github.com/user-attachments/assets/f4efe629-ca04-41fa-920a-6cb70532002b" />
-
- 
-</p>
 
 <p align="center">
-  <img width="1400" height="340" alt="quote" src="./quote-card.svg" />
-</p>
-
-<p align="center"> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
-
-<p align="center"> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
-
-
-<p align="center">
-  <img width="1400" height="340" alt="image" src="https://github.com/user-attachments/assets/65d6e49c-6390-4625-8f77-10ada0ba2c04" />
+ <img width="2800" height="680" alt="image" src="https://github.com/user-attachments/assets/f4efe629-ca04-41fa-920a-6cb70532002b" />
 </p>
 
 <p align="center">
