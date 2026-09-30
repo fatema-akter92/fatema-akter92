@@ -58,6 +58,7 @@ I am a Computer Science & Engineering student with a strong interest in  compute
 # Projects
 
 • Atelier Terra — Artisanal Ceramics & Cozy Home Living — Inspired by warm morning light, hand-pleated paper lamps, tactile stoneware, and tranquil creative workspaces.
+
 • Blood-Donatation-Request-System — A web platform for donor registration, blood requests, and donor discovery based on blood group, location, and availability..
 
 • Single_Vendor-E-commerce-Website  — The Single Vendor E-Commerce Website ("TechMart") project has been fully developed, seeded with sample database products, tested, and launched.
