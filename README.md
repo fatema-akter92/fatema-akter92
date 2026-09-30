@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\User\Downloads\quote (1).svg" width="100%" alt="Profile footer" />
+  <img width="876" height="215" alt="image" src="https://github.com/user-attachments/assets/3d3b72b4-70d1-4a01-a76c-b64ba5857401" />
 </p>
 
 <p align="center">
