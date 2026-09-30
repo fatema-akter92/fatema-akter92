@@ -2,8 +2,11 @@
 
 
 ----
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%">
+</p>
 
-
+<p align="center"> <img src="assets/quote.svg" width="700" alt="Quote" /> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
 <p align="center">
   <svg width="100%" viewBox="0 0 1100 380" xmlns="http://www.w3.org/2000/svg">
 
