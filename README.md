@@ -3,6 +3,69 @@
 
 ----
 
+
+<p align="center">
+  <svg width="100%" viewBox="0 0 1100 380" xmlns="http://www.w3.org/2000/svg">
+
+    <rect width="1100" height="380" fill="#0d1117"/>
+
+    <!-- Quote Box -->
+    <rect x="210" y="85" width="680" height="165"
+          rx="12" fill="#191b26"/>
+
+    <!-- Quote -->
+    <text x="240" y="135"
+          fill="#2dd4bf"
+          font-size="22"
+          font-family="Arial"
+          font-style="italic">
+      "Build systems that connect ideas,
+    </text>
+
+    <text x="240" y="170"
+          fill="#2dd4bf"
+          font-size="22"
+          font-family="Arial"
+          font-style="italic">
+      people, and technology."
+    </text>
+
+    <!-- Author -->
+    <text x="715" y="210"
+          fill="#60a5fa"
+          font-size="17"
+          font-family="Arial"
+          font-style="italic">
+      — Fatema Akter Meem
+    </text>
+
+    <!-- Message -->
+    <text x="350" y="300"
+          fill="#ffffff"
+          font-size="17"
+          font-family="Arial">
+      ⭐ Thanks for stopping by — feel free to explore my repos!
+    </text>
+
+    <!-- Bottom Waves -->
+    <path d="M30 380 L30 310
+             C180 350 280 300 420 320
+             C600 350 700 290 850 315
+             C950 330 1020 300 1100 310
+             L1100 380 Z"
+          fill="#2563eb"
+          opacity="0.55"/>
+
+    <path d="M30 380 L30 345
+             C180 300 350 330 500 345
+             C700 365 850 290 1100 315
+             L1100 380 Z"
+          fill="#7c3aed"
+          opacity="0.55"/>
+
+  </svg>
+</p>
+
  <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1BA0D7&center=true&vCenter=true&width=650&lines=Aspiring+Network+Engineer;Backend+%26+Full+Stack+Developer+(Django);Cloud+%26+Infrastructure+Enthusiast;Building+scalable+real-world+systems" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatema-akter92&label=Profile+Views&color=1BA0D7&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/badge/CSE-Student-blue?style=for-the-badge" alt="CSE Student" /> <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="Open to internships" /> </p>
 
 
@@ -113,3 +176,7 @@ Version Control & Collaboration (Git/GitHub best practices)
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatema--akter92-181717?style=for-the-badge&logo=github)](https://github.com/fatema-akter92)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatema%20Akter%20Meem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatema-akter-meem-502342334/)
+
+
+<p align="center"> <a href="https://github.com/fatema-akter92"><img src="https://img.shields.io/badge/GitHub-fatema--akter92-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/fatema-akter-meem-502342334/"><img src="https://img.shields.io/badge/LinkedIn-Fatema%20Akter%20Meem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+<p align="center"> <img src="assets/quote.svg" width="700" alt="Quote" /> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
