@@ -5,33 +5,24 @@
 
 </p>
 
-<svg width="1400" height="340" viewBox="0 0 1400 340" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="1400" height="340" rx="20" fill="#181824"/>
+<p align="center"> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
 
-  <!-- Opening Quote Mark -->
-  <text x="60" y="110" fill="#7C3AED" font-family="'Georgia', serif" font-size="70" font-weight="bold">“</text>
 
-  <!-- Quote Text Line 1 -->
-  <text x="100" y="140" fill="#10B981" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="42" font-style="italic">
-    The nice thing about standards is that
-  </text>
+<p align="center">
+  <img width="1400" height="340" alt="image" src="https://github.com/user-attachments/assets/65d6e49c-6390-4625-8f77-10ada0ba2c04" />
+</p>
 
-  <!-- Quote Text Line 2 -->
-  <text x="70" y="210" fill="#10B981" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="42" font-style="italic">
-    you have so many to choose from.
-  </text>
+<p align="center">
+  <p align="center"><i>“The proper use of comments is to compensate for our failure to express ourselves in code.”</i></p>
+</p>
 
-  <!-- Closing Quote Mark -->
-  <text x="735" y="195" fill="#7C3AED" font-family="'Georgia', serif" font-size="70" font-weight="bold">”</text>
+<p align="center"><b>- Robert C. Martin</b></p>
 
-  <!-- Author Name -->
-  <text x="1330" y="280" fill="#3B82F6" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="34" font-style="italic" text-anchor="end">
-    - Andrew S. Tanenbaum
-  </text>
-</svg>
+<p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p>
 
-<p align="center"> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" /> ----
+<p align="center"><code>Router# exit</code></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
 
  <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1BA0D7&center=true&vCenter=true&width=650&lines=Aspiring+Network+Engineer;Backend+%26+Full+Stack+Developer+(Django);Cloud+%26+Infrastructure+Enthusiast;Building+scalable+real-world+systems" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatema-akter92&label=Profile+Views&color=1BA0D7&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/badge/CSE-Student-blue?style=for-the-badge" alt="CSE Student" /> <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="Open to internships" /> </p>
 
