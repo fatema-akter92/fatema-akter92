@@ -173,10 +173,7 @@ Version Control & Collaboration (Git/GitHub best practices)
 ----------
 
 ## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-fatema--akter92-181717?style=for-the-badge&logo=github)](https://github.com/fatema-akter92)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatema%20Akter%20Meem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatema-akter-meem-502342334/)
-
-
 <p align="center"> <a href="https://github.com/fatema-akter92"><img src="https://img.shields.io/badge/GitHub-fatema--akter92-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/fatema-akter-meem-502342334/"><img src="https://img.shields.io/badge/LinkedIn-Fatema%20Akter%20Meem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+
+
 <p align="center"> <img src="assets/quote.svg" width="700" alt="Quote" /> </p> <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p> <p align="center"><code>Router# exit</code></p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
