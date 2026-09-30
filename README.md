@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="2800" height="680" alt="image" src="https://github.com/user-attachments/assets/f4efe629-ca04-41fa-920a-6cb70532002b" />
+ <img width="1800" height="680" alt="image" src="https://github.com/user-attachments/assets/f4efe629-ca04-41fa-920a-6cb70532002b" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
