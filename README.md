@@ -8,7 +8,7 @@
   <p align="center"><i>“The proper use of comments is to compensate for our failure to express ourselves in code.”</i></p>
 </p>
 
-<p align="center"><b> <br> - Robert C. Martin</b></p>
+<p align="center"><b> - Robert C. Martin</b></p>
 <p align="center">⭐ Thanks for stopping by — feel free to explore my repos!</p>
 
 -------------
