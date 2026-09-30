@@ -1,5 +1,5 @@
 <p align="center">
- <img width="2800" height="680" alt="image" src="https://github.com/user-attachments/assets/53396103-7988-4b6c-b426-036bef76b8da" />
+ <img width="3200" height="780" alt="image" src="https://github.com/user-attachments/assets/53396103-7988-4b6c-b426-036bef76b8da" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
