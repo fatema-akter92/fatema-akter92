@@ -132,7 +132,7 @@ Version Control & Collaboration (Git/GitHub best practices)
   </a>
 
   <a href="mailto:fatemaaktermeem838@gmail.com">
-    <img src="https://img.shields.io/badge/Email-YOUR__EMAIL%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-fatemaaktermeem838%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </p>
