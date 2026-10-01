@@ -26,16 +26,13 @@
     src="https://komarev.com/ghpvc/?username=fatema-akter92&label=Profile+Views&color=1BA0D7&style=for-the-badge"
     alt="Profile Views"
   />
-</p>
-
-<p align="center">
   <img
     src="https://img.shields.io/badge/CSE-Student-blue?style=for-the-badge"
     alt="CSE Student"
   />
   <img
     src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"
-    alt="Open to internships"
+    alt="Open to Internships"
   />
 </p>
 
