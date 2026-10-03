@@ -66,9 +66,9 @@ I am a Computer Science & Engineering student with a strong interest in  compute
  
 # Projects
 
-• SheCare BD —PCOS & PMS Women's Healthcare & Awareness Platform (Bangladesh) —  **SheCare BD** is a dedicated, evidence-based digital healthcare and clinical consultation platform built specifically for adolescent girls and women across Bangladesh .Awareness is the cornerstone of healing ,Break societal taboos, restore hormonal equilibrium.
+• SheCare BD — PCOS & PMS Women's Healthcare & Awareness Platform (Bangladesh) —  **SheCare BD** is a dedicated, evidence-based digital healthcare and clinical consultation platform built specifically for adolescent girls and women across Bangladesh .Awareness is the cornerstone of healing ,Break societal taboos, restore hormonal equilibrium.
 
-Atelier Terra — Artisanal Ceramics & Cozy Home Living — Inspired by warm morning light, hand-pleated paper lamps, tactile stoneware, and tranquil creative workspaces.
+• Atelier Terra — Artisanal Ceramics & Cozy Home Living — Inspired by warm morning light, hand-pleated paper lamps, tactile stoneware, and tranquil creative workspaces.
 
 • Blood-Donatation-Request-System — A web platform for donor registration, blood requests, and donor discovery based on blood group, location, and availability..
 
