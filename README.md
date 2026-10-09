@@ -40,7 +40,8 @@ Focused on building scalable and real-world software systems
 
 I am a Computer Science & Engineering student with a strong interest in  computer network ,Full Stack Development|Django ,software development, backend systems, and artificial intelligence.
 
- 🌐 Computer Networking
+ 
+ 🌐Computer Networking
 - Full Stack Development Django
 - 🏗️ Network Architecture
 - ☁️ Cloud & Infrastructure
